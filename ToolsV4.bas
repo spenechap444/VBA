@@ -1,4 +1,4 @@
-Attribute VB_Name = "ToolsV4"
+
 Public Function MergeArrays(Arr1() As Variant, Arr2() As Variant) As Variant
     Dim arr1UB As Integer
     Dim new_arr() As Variant
