@@ -1,4 +1,4 @@
-Attribute VB_Name = "ToolsV5"
+'Attribute VB_Name = "ToolsV5"
 
 Public Function file_rev_date(path As String)
     file_rev_date = FileDateTime(path)
